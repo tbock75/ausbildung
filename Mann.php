@@ -8,5 +8,7 @@
 
 class Mann extends mensch
 {
-
+    public function __construct()
+    {
+    }
 }
