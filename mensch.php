@@ -10,5 +10,6 @@ class mensch
 {
     public function __construct()
     {
+        echo "Hanno";
     }
 }
